@@ -1,0 +1,5 @@
+在这次练习中我们需要安装两个外部库，分别为requests和BeautifulSoup
+
+>>> Terminal
+>>> pip install requests
+>>> pip install BeautifulSoup
